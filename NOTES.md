@@ -6,6 +6,6 @@
 
 ## Creating the files
 
-- [] Probably need to use mkdirat() instead of mkdir()
-- [] Want to follow the pattern of create a temp dir, setting it up and renaming it
+- [ ] Probably need to use mkdirat() instead of mkdir()
+- [ ] Want to follow the pattern of create a temp dir, setting it up and renaming it
     as mentioned [here](https://stackoverflow.com/questions/65168665/create-a-directory-and-return-a-dirfd-with-open)
